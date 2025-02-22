@@ -26,9 +26,9 @@ az extension add -n ml -y
 
 ## For backward compatibility - running on old subscription
 # <set_variables>
-GROUP="mlsops-june2023"
+GROUP="gl-test-v01"
 LOCATION="eastus"
-WORKSPACE="mlsops-june2023"
+WORKSPACE="Test v01 (test-v01)"
 # </set_variables>
 
 # If RESOURCE_GROUP_NAME is empty, the az configure is pending.
